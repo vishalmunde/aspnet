@@ -1,5 +1,5 @@
---temp-output:\\TK5-RED-MDS-08Z\MyDocs6\vmunde\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\obj\Debug\netcoreapp1.0\
---out:\\TK5-RED-MDS-08Z\MyDocs6\vmunde\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.dll
+--temp-output:C:\mygithub\aspnet\src\TheWorld\obj\Debug\netcoreapp1.0\
+--out:C:\mygithub\aspnet\src\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -123,6 +123,6 @@
 --reference:C:\Users\vmunde\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\vmunde\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\vmunde\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"\\TK5-RED-MDS-08Z\MyDocs6\vmunde\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\obj\Debug\netcoreapp1.0\TheWorlddotnet-compile.deps.json",TheWorld.deps.json
-\\TK5-RED-MDS-08Z\MyDocs6\vmunde\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\Program.cs
-\\TK5-RED-MDS-08Z\MyDocs6\vmunde\Documents\Visual Studio 2015\Projects\TheWorld\src\TheWorld\Startup.cs
+--resource:"C:\mygithub\aspnet\src\TheWorld\obj\Debug\netcoreapp1.0\TheWorlddotnet-compile.deps.json",TheWorld.deps.json
+C:\mygithub\aspnet\src\TheWorld\Program.cs
+C:\mygithub\aspnet\src\TheWorld\Startup.cs
